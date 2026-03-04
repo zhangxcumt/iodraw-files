@@ -4,15 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iGBb497xEvcXu3g-vhuw-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1CooUjGojUXxMMVf_wEv-1" target="iGBb497xEvcXu3g-vhuw-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1CooUjGojUXxMMVf_wEv-1" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;243889 gravity anomalies&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="359" y="40" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="iGBb497xEvcXu3g-vhuw-1" value="48778 gravity anomalies" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-3" value="1. 计算原始观测值的&#xa;经验协方差函数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="439" width="60" height="30" as="geometry" />
         </mxCell>
@@ -47,7 +38,7 @@
           <mxGeometry x="107" y="768" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-14" value="10. 公式计算&#xa;大地水准面格网" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="265" y="768" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="768" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-15" value="11. Natural插值计算75个&#xa;GNSS/水准点高程异常" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="107" y="858" width="60" height="30" as="geometry" />
