@@ -127,10 +127,10 @@
         <mxCell id="iGBb497xEvcXu3g-vhuw-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-114" target="iGBb497xEvcXu3g-vhuw-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iGBb497xEvcXu3g-vhuw-114" value="&lt;font face=&quot;Times New Roman&quot;&gt;外符合精度&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iGBb497xEvcXu3g-vhuw-114" value="&lt;font face=&quot;Times New Roman&quot;&gt;模型外符合精度&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="670" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iGBb497xEvcXu3g-vhuw-116" value="&lt;font face=&quot;Times New Roman&quot;&gt;外符合精度&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iGBb497xEvcXu3g-vhuw-116" value="&lt;font face=&quot;Times New Roman&quot;&gt;实测GNSS水准点高程&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="670" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
