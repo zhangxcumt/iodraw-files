@@ -97,7 +97,7 @@
         <mxCell id="iGBb497xEvcXu3g-vhuw-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="iGBb497xEvcXu3g-vhuw-102" target="iGBb497xEvcXu3g-vhuw-108" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iGBb497xEvcXu3g-vhuw-102" value="&lt;font&gt;Residual grided height anomaly&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="iGBb497xEvcXu3g-vhuw-102" value="&lt;font&gt;Residual gridded height anomaly&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="369" y="470" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="iGBb497xEvcXu3g-vhuw-85" target="iGBb497xEvcXu3g-vhuw-108" edge="1">
@@ -117,10 +117,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iGBb497xEvcXu3g-vhuw-108" value="&lt;font&gt;Grided height anomaly&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="iGBb497xEvcXu3g-vhuw-108" value="&lt;font&gt;Gridded height anomaly&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="369" y="530" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iGBb497xEvcXu3g-vhuw-110" value="&lt;font&gt;Grided geoid&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="iGBb497xEvcXu3g-vhuw-110" value="&lt;font&gt;Gridded geoid&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="179" y="530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="iGBb497xEvcXu3g-vhuw-112" target="iGBb497xEvcXu3g-vhuw-114" edge="1">
