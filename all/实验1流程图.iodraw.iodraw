@@ -19,11 +19,11 @@
         <mxCell id="iGBb497xEvcXu3g-vhuw-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-73" target="iGBb497xEvcXu3g-vhuw-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iGBb497xEvcXu3g-vhuw-73" value="经验协方差函数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGBb497xEvcXu3g-vhuw-73" value="经验协方差函数估计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-75" value="拟合出Tscherning-Rapp协方差函数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
