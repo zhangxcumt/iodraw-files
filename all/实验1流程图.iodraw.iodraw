@@ -28,7 +28,7 @@
         <mxCell id="iGBb497xEvcXu3g-vhuw-40" value="等间隔抽稀: 48778个数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="685" y="1006" width="243" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="iGBb497xEvcXu3g-vhuw-41" value="均匀采样: 分离 l1 与 l2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="iGBb497xEvcXu3g-vhuw-41" value="均匀采样: 分离 l1 与 l2" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="694" y="1172" width="224" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-42" value="计算经验协方差函数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
