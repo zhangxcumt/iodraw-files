@@ -64,8 +64,11 @@
         <mxCell id="iGBb497xEvcXu3g-vhuw-91" value="格网点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-92" target="iGBb497xEvcXu3g-vhuw-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-92" value="(互)协方差矩阵计算C1,Cst" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="242.5" y="320" width="255" height="60" as="geometry" />
+          <mxGeometry x="280" y="320" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-89" target="iGBb497xEvcXu3g-vhuw-92">
           <mxGeometry relative="1" as="geometry">
@@ -78,6 +81,9 @@
             <mxPoint x="250" y="290" as="sourcePoint" />
             <mxPoint x="370" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-99" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
