@@ -28,7 +28,7 @@
         <mxCell id="iGBb497xEvcXu3g-vhuw-75" value="Tscherning-Rapp协方差函数参数估计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iGBb497xEvcXu3g-vhuw-79" value="重力场模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGBb497xEvcXu3g-vhuw-79" value="模型重力异常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
