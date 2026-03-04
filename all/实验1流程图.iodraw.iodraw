@@ -28,6 +28,12 @@
         <mxCell id="iGBb497xEvcXu3g-vhuw-77" value="重力场模型：&lt;div&gt;GGM05C&lt;/div&gt;&lt;div&gt;EGM2008&lt;/div&gt;&lt;div&gt;ERTM2160&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="220" as="sourcePoint" />
+            <mxPoint x="400" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
