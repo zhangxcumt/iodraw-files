@@ -50,7 +50,7 @@
           <mxGeometry x="590" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-85" value="Model height anomaly" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="590" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="iGBb497xEvcXu3g-vhuw-87" target="iGBb497xEvcXu3g-vhuw-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
