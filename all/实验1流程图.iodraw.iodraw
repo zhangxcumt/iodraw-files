@@ -13,6 +13,9 @@
         <mxCell id="iGBb497xEvcXu3g-vhuw-70" value="重力异常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="20" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-71" target="iGBb497xEvcXu3g-vhuw-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-71" value="剩余重力异常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="110" width="120" height="60" as="geometry" />
         </mxCell>
@@ -24,6 +27,9 @@
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-75" value="Tscherning-Rapp协方差函数参数估计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-79" value="重力场模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
