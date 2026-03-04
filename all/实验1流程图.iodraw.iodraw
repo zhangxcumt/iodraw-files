@@ -64,7 +64,7 @@
         <mxCell id="iGBb497xEvcXu3g-vhuw-91" value="格网点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iGBb497xEvcXu3g-vhuw-92" value="均匀采样点&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-style: italic;&quot;&gt;l&lt;/b&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGBb497xEvcXu3g-vhuw-92" value="(互)协方差矩阵计算C1,Cst" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="310" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-89" target="iGBb497xEvcXu3g-vhuw-92">
