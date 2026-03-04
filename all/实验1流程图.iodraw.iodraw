@@ -121,7 +121,7 @@
         <mxCell id="iGBb497xEvcXu3g-vhuw-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-112" target="iGBb497xEvcXu3g-vhuw-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iGBb497xEvcXu3g-vhuw-112" value="&lt;font face=&quot;Times New Roman&quot;&gt;GNSS水准点高程异常&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iGBb497xEvcXu3g-vhuw-112" value="&lt;font face=&quot;Times New Roman&quot;&gt;模型GNSS水准点高程异常&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-114" target="iGBb497xEvcXu3g-vhuw-116">
