@@ -1,0 +1,157 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="z2hrt1BSXe65YJN8m4tm">
+    <mxGraphModel dx="989" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iGBb497xEvcXu3g-vhuw-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1CooUjGojUXxMMVf_wEv-1" target="iGBb497xEvcXu3g-vhuw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1CooUjGojUXxMMVf_wEv-1" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;243889 gravity anomalies&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="359" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-1" value="48778 gravity anomalies" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-3" value="1. 计算原始观测值的&#xa;经验协方差函数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="439" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-4" value="243889个原始重力异常" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="229" y="250" width="222" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-5" value="2. 扣除模型重力异常" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="349" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-6" value="得到剩余重力异常" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="246" y="429" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-7" value="3. 拟合Tscherning-Rapp&#xa;协方差函数参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="528" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-8" value="4. 等间隔抽稀得到&#xa;48778个重力数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="528" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-9" value="5. 均匀采样得到l1&#xa;剩余部分记为l2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="608" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-10" value="6. 生成目标格网点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="608" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-11" value="7. 计算协方差矩阵&#xa;Cll, Cl1l1, Cst" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="608" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-12" value="8. 使用Nystrom方法计算&#xa;剩余高程异常格网" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="688" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-13" value="9. 恢复模型得到&#xa;高程异常格网" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="107" y="768" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-14" value="10. 公式计算&#xa;大地水准面格网" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="265" y="768" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-15" value="11. Natural插值计算75个&#xa;GNSS/水准点高程异常" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="107" y="858" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-16" value="75个GNSS/水准点实测数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="217" y="848" width="251" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-17" value="12. 精度评价&#xa;得到模型外符合精度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="258" y="947" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-4" target="iGBb497xEvcXu3g-vhuw-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-5" target="iGBb497xEvcXu3g-vhuw-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.44;entryY=0;rounded=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-3" target="iGBb497xEvcXu3g-vhuw-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=1;entryY=0.1;rounded=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-6" target="iGBb497xEvcXu3g-vhuw-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-6" target="iGBb497xEvcXu3g-vhuw-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-8" target="iGBb497xEvcXu3g-vhuw-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-7" target="iGBb497xEvcXu3g-vhuw-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.14;rounded=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-9" target="iGBb497xEvcXu3g-vhuw-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="663" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-10" target="iGBb497xEvcXu3g-vhuw-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.14;rounded=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-11" target="iGBb497xEvcXu3g-vhuw-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="663" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-12" target="iGBb497xEvcXu3g-vhuw-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="137" y="743" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-12" target="iGBb497xEvcXu3g-vhuw-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="295" y="743" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.51;entryY=-0.02;rounded=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-13" target="iGBb497xEvcXu3g-vhuw-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.84;entryY=0;rounded=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-16" target="iGBb497xEvcXu3g-vhuw-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="343" y="922" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.98;entryX=-0.01;entryY=0.23;rounded=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-15" target="iGBb497xEvcXu3g-vhuw-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="137" y="922" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
