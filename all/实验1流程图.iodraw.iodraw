@@ -132,7 +132,7 @@
         <mxCell id="iGBb497xEvcXu3g-vhuw-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;" parent="1" source="iGBb497xEvcXu3g-vhuw-116" target="iGBb497xEvcXu3g-vhuw-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iGBb497xEvcXu3g-vhuw-114" value="&lt;font&gt;模型外符合精度&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="iGBb497xEvcXu3g-vhuw-114" value="&lt;font&gt;External accuracy calculation&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="310" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-116" value="&lt;font&gt;实测GNSS水准点高程&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
