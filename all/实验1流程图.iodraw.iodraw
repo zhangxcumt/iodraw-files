@@ -106,8 +106,14 @@
             <mxPoint x="380" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-108" target="iGBb497xEvcXu3g-vhuw-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-108" value="&lt;font face=&quot;Times New Roman&quot;&gt;高程异常格网&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iGBb497xEvcXu3g-vhuw-110" value="&lt;font face=&quot;Times New Roman&quot;&gt;大地水准面格网&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="530" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
