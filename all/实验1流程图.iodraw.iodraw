@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="z2hrt1BSXe65YJN8m4tm">
-    <mxGraphModel dx="819" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,7 +127,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-112" value="&lt;font&gt;Estimated height anomaly at GNSS/leveling points&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="369" y="610" width="131" height="40" as="geometry" />
+          <mxGeometry x="363.5" y="610" width="131" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;" parent="1" source="iGBb497xEvcXu3g-vhuw-116" target="iGBb497xEvcXu3g-vhuw-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
