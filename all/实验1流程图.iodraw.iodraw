@@ -65,7 +65,7 @@
           <mxGeometry x="450" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-92" value="(互)协方差矩阵计算C1,Cst" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="310" width="390" height="60" as="geometry" />
+          <mxGeometry x="242.5" y="320" width="255" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iGBb497xEvcXu3g-vhuw-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iGBb497xEvcXu3g-vhuw-89" target="iGBb497xEvcXu3g-vhuw-92">
           <mxGeometry relative="1" as="geometry">
