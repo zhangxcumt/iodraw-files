@@ -218,10 +218,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-14" value="重力数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="530" width="120" height="30" as="geometry" />
+          <mxGeometry x="414" y="490" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-15" value="重力场表示方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="614" y="530" width="120" height="30" as="geometry" />
+          <mxGeometry x="584" y="530" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
