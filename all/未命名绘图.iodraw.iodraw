@@ -68,8 +68,8 @@
         <mxCell id="Bx7AzpJhx5t19qW085-5-24" value="符合Kaula准则的重力场建模理论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="719" y="210" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="Bx7AzpJhx5t19qW085-5-25" value="重力场表示方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
