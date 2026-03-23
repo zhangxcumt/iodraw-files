@@ -493,6 +493,12 @@
         <mxCell id="4M3m3bhijvJrPEI5MOuk-97" value="MP算法，OMP算法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="943.5" y="790" width="121" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="834" y="800" as="sourcePoint" />
+            <mxPoint x="834" y="755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
