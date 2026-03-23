@@ -98,7 +98,7 @@
             <mxPoint x="590" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-34" value="Stokes系数" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Bx7AzpJhx5t19qW085-5-34" value="Legendre系数" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-36" value="球谐系数" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
