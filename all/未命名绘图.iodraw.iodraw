@@ -122,9 +122,9 @@
         <mxCell id="Bx7AzpJhx5t19qW085-5-40" value="Kaula准则" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1121" y="320" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Bx7AzpJhx5t19qW085-5-46" target="Bx7AzpJhx5t19qW085-5-40">
+        <mxCell id="Bx7AzpJhx5t19qW085-5-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Bx7AzpJhx5t19qW085-5-36" target="Bx7AzpJhx5t19qW085-5-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1051" y="275" as="sourcePoint" />
+            <mxPoint x="1039.9999999999998" y="274.9999999999999" as="sourcePoint" />
             <mxPoint x="750" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -139,9 +139,6 @@
             <mxPoint x="1051" y="395" as="sourcePoint" />
             <mxPoint x="770" y="305" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-46" value="球谐系数" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="920" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-47" value="闭式径向基函数模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="920" y="320" width="120" height="30" as="geometry" />
