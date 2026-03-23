@@ -143,8 +143,8 @@
             <mxPoint x="770" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-44" value="" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="305" width="120" height="60" as="geometry" />
+        <mxCell id="Bx7AzpJhx5t19qW085-5-44" value="符合Kaula准则的SRBF模型" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="305" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
