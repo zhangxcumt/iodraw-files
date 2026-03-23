@@ -11,7 +11,7 @@
           <mxGeometry x="394" y="30" width="860" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Nvx5R4sgkwVBUCwVYTq--1" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;Times New Roman&quot;&gt;绪论&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10.5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="764" width="120" height="30" as="geometry" />
+          <mxGeometry x="764" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10.5;" parent="1" source="Bx7AzpJhx5t19qW085-5-2" target="Bx7AzpJhx5t19qW085-5-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -197,7 +197,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-8" value="&lt;span style=&quot;font-size: 10.5px;&quot; lang=&quot;EN-US&quot;&gt;Nyström&lt;/span&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;最小二乘配置应用于大规模数据局部重力场建模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10.5;" vertex="1" parent="1">
-          <mxGeometry x="690" y="860" width="270" height="30" as="geometry" />
+          <mxGeometry x="689" y="860" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10.5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
