@@ -184,7 +184,7 @@
             <mxPoint x="824" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-5" value="最小二乘配置的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-5" value="最小二乘配置的贪婪稀疏近似方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="719" y="630" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
