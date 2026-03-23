@@ -80,7 +80,7 @@
         <mxCell id="Bx7AzpJhx5t19qW085-5-26" value="SRBF" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="570" y="320" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-28" value="球谐函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bx7AzpJhx5t19qW085-5-28" value="球谐函数" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="570" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-29" value="LSC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-34" value="Stokes系数" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="320" width="120" height="30" as="geometry" />
+          <mxGeometry x="750" y="320" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
