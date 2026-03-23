@@ -75,19 +75,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-25" value="重力场表示方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10.5;" parent="1" vertex="1">
-          <mxGeometry x="414" y="280" width="120" height="30" as="geometry" />
+          <mxGeometry x="414" y="270" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10.5;" parent="1" source="Bx7AzpJhx5t19qW085-5-26" target="Bx7AzpJhx5t19qW085-5-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-26" value="SRBF" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
-          <mxGeometry x="584" y="280" width="120" height="30" as="geometry" />
+          <mxGeometry x="584" y="270" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-28" value="球谐函数" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
           <mxGeometry x="584" y="220" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-29" value="LSC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
-          <mxGeometry x="584" y="340" width="120" height="30" as="geometry" />
+          <mxGeometry x="584" y="320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=10.5;" parent="1" source="Bx7AzpJhx5t19qW085-5-25" target="Bx7AzpJhx5t19qW085-5-28" edge="1">
           <mxGeometry relative="1" as="geometry">
