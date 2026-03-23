@@ -206,7 +206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-12" value="结论与展望" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10.5;" vertex="1" parent="1">
-          <mxGeometry x="719" y="1088" width="161" height="30" as="geometry" />
+          <mxGeometry x="753.5" y="1088" width="141" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10.5;" vertex="1" parent="1">
           <mxGeometry x="392" y="1118" width="864" height="51" as="geometry" />
@@ -501,6 +501,12 @@
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-101" value="&lt;span style=&quot;font-size: 10.5px;&quot;&gt;Nyström低秩逼近&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" vertex="1" parent="1">
           <mxGeometry x="943.5" y="1020" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=10.5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="834" y="1030" as="sourcePoint" />
+            <mxPoint x="834" y="985" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
