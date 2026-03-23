@@ -229,7 +229,7 @@
             <mxPoint x="580" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-24" value="重力场建模方法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-24" value="设计矩阵" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="764" y="505" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-25" value="Tikhonov正则化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -424,7 +424,7 @@
             <mxPoint x="580" y="905" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-83" value="重力场建模方法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-83" value="协方差矩阵" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="764" y="925" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-84" value="标准LSC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
