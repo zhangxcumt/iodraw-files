@@ -65,7 +65,7 @@
             <mxPoint x="824" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-24" value="符合Kaula准则的重力场建模理论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bx7AzpJhx5t19qW085-5-24" value="符合&lt;font face=&quot;Times New Roman&quot;&gt;Kaula&lt;/font&gt;准则的重力场建模理论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="719" y="210" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bx7AzpJhx5t19qW085-5-25" target="Bx7AzpJhx5t19qW085-5-26">
@@ -74,13 +74,13 @@
         <mxCell id="Bx7AzpJhx5t19qW085-5-25" value="重力场表示方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-26" value="SRBF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bx7AzpJhx5t19qW085-5-26" value="SRBF" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="570" y="320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-28" value="球谐函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-29" value="LSC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bx7AzpJhx5t19qW085-5-29" value="LSC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="570" y="380" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Bx7AzpJhx5t19qW085-5-25" target="Bx7AzpJhx5t19qW085-5-28">
