@@ -325,7 +325,7 @@
         <mxCell id="4M3m3bhijvJrPEI5MOuk-53" value="重力场建模方法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="764" y="715" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-54" value="Tikhonov正则化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-54" value="标准LSC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="764" y="660" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-55" value="贪婪算法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
