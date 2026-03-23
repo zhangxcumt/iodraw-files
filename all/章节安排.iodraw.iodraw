@@ -176,7 +176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-2" value="贪婪球面径向基函数重力场建模" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10.5;" vertex="1" parent="1">
-          <mxGeometry x="719" y="420" width="181" height="30" as="geometry" />
+          <mxGeometry x="733.5" y="420" width="181" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10.5;" vertex="1" parent="1">
           <mxGeometry x="392" y="450" width="864" height="140" as="geometry" />
@@ -188,7 +188,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-5" value="最小二乘配置的贪婪稀疏近似方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10.5;" vertex="1" parent="1">
-          <mxGeometry x="719" y="630" width="210" height="30" as="geometry" />
+          <mxGeometry x="728.5" y="630" width="191" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10.5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -206,7 +206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-12" value="结论与展望" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10.5;" vertex="1" parent="1">
-          <mxGeometry x="719" y="1088" width="210" height="30" as="geometry" />
+          <mxGeometry x="719" y="1088" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10.5;" vertex="1" parent="1">
           <mxGeometry x="392" y="1118" width="864" height="51" as="geometry" />
