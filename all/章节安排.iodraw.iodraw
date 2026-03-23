@@ -248,7 +248,7 @@
           <mxGeometry x="929" y="475" width="121" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-30" value="格网大地水准面" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="944" y="535" width="146" height="30" as="geometry" />
+          <mxGeometry x="929" y="535" width="146" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-32" value="精度评定" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1121" y="505" width="120" height="30" as="geometry" />
