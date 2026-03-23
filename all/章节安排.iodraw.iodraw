@@ -221,7 +221,10 @@
           <mxGeometry x="414" y="550" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-19" value="研究区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="500" width="120" height="30" as="geometry" />
+          <mxGeometry x="570" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-20" value="研究区域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="530" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
