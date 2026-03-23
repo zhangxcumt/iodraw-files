@@ -11,7 +11,7 @@
           <mxGeometry x="394" y="30" width="860" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Nvx5R4sgkwVBUCwVYTq--1" value="&lt;font style=&quot;font-size: 10.5px;&quot; face=&quot;Times New Roman&quot;&gt;绪论&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10.5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="764" width="96" height="30" as="geometry" />
+          <mxGeometry x="776" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10.5;" parent="1" source="Bx7AzpJhx5t19qW085-5-2" target="Bx7AzpJhx5t19qW085-5-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-24" value="符合&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10.5px;&quot;&gt;Kaula&lt;/font&gt;准则的重力场建模理论" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10.5;" parent="1" vertex="1">
-          <mxGeometry x="719" y="180" width="210" height="30" as="geometry" />
+          <mxGeometry x="733.5" y="180" width="181" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10.5;" parent="1" source="Bx7AzpJhx5t19qW085-5-25" target="Bx7AzpJhx5t19qW085-5-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -176,7 +176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-2" value="贪婪球面径向基函数重力场建模" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10.5;" vertex="1" parent="1">
-          <mxGeometry x="719" y="420" width="210" height="30" as="geometry" />
+          <mxGeometry x="719" y="420" width="181" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10.5;" vertex="1" parent="1">
           <mxGeometry x="392" y="450" width="864" height="140" as="geometry" />
