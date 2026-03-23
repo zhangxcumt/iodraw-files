@@ -205,11 +205,11 @@
             <mxPoint x="824" y="1049" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-12" value="贪婪球面径向基函数重力场建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-12" value="结论与展望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="719" y="1049" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="392" y="1079" width="864" height="90" as="geometry" />
+          <mxGeometry x="392" y="1079" width="864" height="51" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-18" value="重力测量数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="505" width="120" height="30" as="geometry" />
