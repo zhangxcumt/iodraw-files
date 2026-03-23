@@ -214,8 +214,14 @@
         <mxCell id="4M3m3bhijvJrPEI5MOuk-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="392" y="990" width="864" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-14" value="重力场表示方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="320" width="120" height="30" as="geometry" />
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4M3m3bhijvJrPEI5MOuk-14" target="4M3m3bhijvJrPEI5MOuk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-14" value="重力数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="530" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-15" value="重力场表示方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="614" y="530" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
