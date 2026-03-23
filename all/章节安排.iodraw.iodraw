@@ -400,9 +400,6 @@
         <mxCell id="4M3m3bhijvJrPEI5MOuk-72" value="支持向量配置简介" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="944" y="1128.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-77" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="572" y="715" width="864" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-78" value="重力测量数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="945" width="120" height="30" as="geometry" />
         </mxCell>
@@ -484,7 +481,7 @@
             <mxPoint x="854" y="1005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4M3m3bhijvJrPEI5MOuk-87" target="4M3m3bhijvJrPEI5MOuk-88">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4M3m3bhijvJrPEI5MOuk-77" target="4M3m3bhijvJrPEI5MOuk-88">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="864" y="1040" as="sourcePoint" />
             <mxPoint x="864" y="1015" as="targetPoint" />
@@ -498,6 +495,15 @@
             <mxPoint x="834" y="800" as="sourcePoint" />
             <mxPoint x="834" y="755" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4M3m3bhijvJrPEI5MOuk-87" target="4M3m3bhijvJrPEI5MOuk-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1064" y="990" as="sourcePoint" />
+            <mxPoint x="1121" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-77" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="392" y="890" width="864" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
