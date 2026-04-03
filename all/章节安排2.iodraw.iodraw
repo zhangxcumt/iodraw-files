@@ -130,17 +130,11 @@
         <mxCell id="Bx7AzpJhx5t19qW085-5-40" value="Kaula准则" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=0;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1142" y="253" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontStyle=0" parent="1" source="Bx7AzpJhx5t19qW085-5-47" target="Bx7AzpJhx5t19qW085-5-40" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1082" y="278" as="sourcePoint" />
-            <mxPoint x="792" y="238" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-47" value="闭式径向基函数模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="940" y="240" width="150" height="43" as="geometry" />
+          <mxGeometry x="940" y="248" width="150" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-48" value="Tscherning-Rapp模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="940" y="290" width="150" height="43" as="geometry" />
+          <mxGeometry x="940" y="300" width="150" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontStyle=0" parent="1" source="Bx7AzpJhx5t19qW085-5-34" target="Bx7AzpJhx5t19qW085-5-47" edge="1">
           <mxGeometry relative="1" as="geometry">
