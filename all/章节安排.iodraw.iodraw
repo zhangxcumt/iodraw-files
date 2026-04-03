@@ -167,7 +167,7 @@
             <mxPoint x="824" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-5" value="最小二乘配置的贪婪稀疏近似方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-5" value="最小二乘配置的贪婪稀疏近似方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontSize=10.5;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="728.5" y="590" width="191" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10.5;" parent="1" edge="1">
@@ -176,7 +176,7 @@
             <mxPoint x="823.66" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-8" value="&lt;span style=&quot;font-size: 10.5px;&quot; lang=&quot;EN-US&quot;&gt;Nyström&lt;/span&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;最小二乘配置应用于大规模数据局部重力场建模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-8" value="&lt;span style=&quot;font-size: 10.5px;&quot; lang=&quot;EN-US&quot;&gt;Nyström&lt;/span&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;最小二乘配置应用于大规模数据局部重力场建模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#0050ef;strokeColor=#001DBC;fontSize=10.5;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="689" y="820" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10.5;" parent="1" edge="1">
@@ -185,7 +185,7 @@
             <mxPoint x="823.66" y="1048" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-12" value="结论与展望" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-12" value="结论与展望" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontSize=10.5;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="753.5" y="1048" width="141" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10.5;" parent="1" vertex="1">
@@ -281,13 +281,13 @@
         <mxCell id="4M3m3bhijvJrPEI5MOuk-47" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10.5;" parent="1" vertex="1">
           <mxGeometry x="392" y="620" width="864" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-48" value="重力测量数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-48" value="重力测量数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="414" y="675" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-49" value="RCR程序设置" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-49" value="RCR程序设置" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="584" y="645" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-50" value="协方差函数拟合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-50" value="协方差函数拟合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="584" y="705" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=10.5;" parent="1" source="4M3m3bhijvJrPEI5MOuk-48" target="4M3m3bhijvJrPEI5MOuk-49" edge="1">
@@ -302,22 +302,22 @@
             <mxPoint x="580" y="655" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-53" value="协方差矩阵" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-53" value="协方差矩阵" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="764" y="675" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-54" value="标准LSC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-54" value="标准LSC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="764" y="620" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-55" value="贪婪LSC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-55" value="贪婪LSC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="764" y="750" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-56" value="GNSS/水准点大地水准面高" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-56" value="GNSS/水准点大地水准面高" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="943" y="645" width="121" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-57" value="格网大地水准面" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-57" value="格网大地水准面" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="943" y="705" width="121" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-58" value="精度评定" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-58" value="精度评定" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="1121" y="675" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=10.5;" parent="1" source="4M3m3bhijvJrPEI5MOuk-49" target="4M3m3bhijvJrPEI5MOuk-53" edge="1">
@@ -371,25 +371,25 @@
         <mxCell id="4M3m3bhijvJrPEI5MOuk-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10.5;" parent="1" source="4M3m3bhijvJrPEI5MOuk-68" target="4M3m3bhijvJrPEI5MOuk-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-68" value="主要工作与总结" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-68" value="主要工作与总结" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="584" y="1088.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10.5;" parent="1" source="4M3m3bhijvJrPEI5MOuk-70" target="4M3m3bhijvJrPEI5MOuk-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-70" value="未来工作展望" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-70" value="未来工作展望" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="764" y="1088.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-72" value="支持向量配置简介" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-72" value="支持向量配置简介" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="944" y="1088.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-78" value="重力测量数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-78" value="重力测量数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="414" y="905" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-79" value="RCR程序设置" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-79" value="RCR程序设置" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="584" y="875" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-80" value="协方差函数拟合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-80" value="协方差函数拟合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="584" y="935" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=10.5;" parent="1" source="4M3m3bhijvJrPEI5MOuk-78" target="4M3m3bhijvJrPEI5MOuk-79" edge="1">
@@ -404,22 +404,22 @@
             <mxPoint x="580" y="885" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-83" value="协方差矩阵" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-83" value="协方差矩阵" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="764" y="905" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-84" value="标准LSC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-84" value="标准LSC" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="764" y="850" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-85" value="&lt;span style=&quot;font-size: 10.5px;&quot;&gt;Nyström-LSC&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-85" value="&lt;span style=&quot;font-size: 10.5px;&quot;&gt;Nyström-LSC&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="764" y="980" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-86" value="GNSS/水准点大地水准面高" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-86" value="GNSS/水准点大地水准面高" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="943" y="875" width="121" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-87" value="格网大地水准面" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-87" value="格网大地水准面" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="943" y="935" width="121" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-88" value="精度评定" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-88" value="精度评定" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="1121" y="905" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=10.5;" parent="1" source="4M3m3bhijvJrPEI5MOuk-79" target="4M3m3bhijvJrPEI5MOuk-83" edge="1">
@@ -464,7 +464,7 @@
             <mxPoint x="854" y="965" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-97" value="MP算法，OMP算法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-97" value="MP算法，OMP算法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="943.5" y="750" width="121" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=10.5;" parent="1" source="4M3m3bhijvJrPEI5MOuk-97" target="4M3m3bhijvJrPEI5MOuk-55" edge="1">
@@ -479,7 +479,7 @@
             <mxPoint x="834" y="945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-101" value="&lt;span style=&quot;font-size: 10.5px;&quot;&gt;Nyström低秩逼近&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-101" value="&lt;span style=&quot;font-size: 10.5px;&quot;&gt;Nyström低秩逼近&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10.5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="943.5" y="980" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=10.5;" parent="1" source="4M3m3bhijvJrPEI5MOuk-101" target="4M3m3bhijvJrPEI5MOuk-85" edge="1">
