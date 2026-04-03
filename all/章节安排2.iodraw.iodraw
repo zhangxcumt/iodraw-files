@@ -601,8 +601,8 @@
             <mxPoint x="1100" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e-lJMLVpOuWckVO2puty-10" value="重力测量数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="454" y="468" width="120" height="30" as="geometry" />
+        <mxCell id="e-lJMLVpOuWckVO2puty-10" value="Colorado实验场" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="446" y="530" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
