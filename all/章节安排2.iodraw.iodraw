@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-77" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-77" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="392" y="850" width="864" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-18" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="Bx7AzpJhx5t19qW085-5-18" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="394" y="30" width="860" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Nvx5R4sgkwVBUCwVYTq--1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;绪论&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
@@ -16,7 +16,7 @@
         <mxCell id="Bx7AzpJhx5t19qW085-5-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="Bx7AzpJhx5t19qW085-5-2" target="Bx7AzpJhx5t19qW085-5-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;研究背景与意义&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+        <mxCell id="Bx7AzpJhx5t19qW085-5-2" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;研究背景与意义&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="414" y="60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="Bx7AzpJhx5t19qW085-5-5" target="Bx7AzpJhx5t19qW085-5-7" edge="1">
@@ -59,7 +59,7 @@
         <mxCell id="Bx7AzpJhx5t19qW085-5-15" value="结构安排" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="1120.5" y="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="Bx7AzpJhx5t19qW085-5-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="392" y="190" width="864" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" parent="1" source="Bx7AzpJhx5t19qW085-5-18" edge="1">
@@ -158,7 +158,7 @@
         <mxCell id="4M3m3bhijvJrPEI5MOuk-2" value="贪婪球面径向基函数重力场建模" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontSize=13;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="730.75" y="360" width="186.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="392" y="390" width="864" height="160" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" parent="1" edge="1">
@@ -188,7 +188,7 @@
         <mxCell id="4M3m3bhijvJrPEI5MOuk-12" value="结论与展望" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontSize=13;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="753.5" y="1048" width="141" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="392" y="1078" width="864" height="51" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-18" value="重力测量数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
@@ -278,7 +278,7 @@
             <mxPoint x="864" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-47" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-47" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="392" y="620" width="864" height="160" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-48" value="重力测量数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
