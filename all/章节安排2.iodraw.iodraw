@@ -25,19 +25,6 @@
         <mxCell id="Bx7AzpJhx5t19qW085-5-7" value="（似）大地水准面" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="786" y="103" width="136" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontStyle=0" parent="1" source="Bx7AzpJhx5t19qW085-5-5" target="Bx7AzpJhx5t19qW085-5-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="744" y="98" as="sourcePoint" />
-            <mxPoint x="804" y="53" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="764" y="88" />
-              <mxPoint x="764" y="58" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=0" parent="1" source="Bx7AzpJhx5t19qW085-5-11" target="Bx7AzpJhx5t19qW085-5-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-11" value="重力场模型" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="794" y="43" width="120" height="30" as="geometry" />
         </mxCell>
@@ -121,18 +108,6 @@
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-48" value="Tscherning-Rapp模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="940" y="300" width="150" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontStyle=0" parent="1" source="Bx7AzpJhx5t19qW085-5-34" target="Bx7AzpJhx5t19qW085-5-47" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="732" y="288" as="sourcePoint" />
-            <mxPoint x="782" y="288" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bx7AzpJhx5t19qW085-5-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontStyle=0" parent="1" source="Bx7AzpJhx5t19qW085-5-37" target="Bx7AzpJhx5t19qW085-5-48" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="742" y="298" as="sourcePoint" />
-            <mxPoint x="792" y="298" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0" parent="1" source="Bx7AzpJhx5t19qW085-5-21" target="4M3m3bhijvJrPEI5MOuk-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
