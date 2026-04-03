@@ -332,16 +332,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-68" value="主要工作与总结" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="614" y="1101.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="650" y="1101.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=0" parent="1" source="4M3m3bhijvJrPEI5MOuk-70" target="4M3m3bhijvJrPEI5MOuk-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-70" value="创新点" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="794" y="1101.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="812" y="1101.5" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-72" value="未来工作展望" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="965.5" y="1101.5" width="136" height="30" as="geometry" />
+          <mxGeometry x="965.5" y="1101.5" width="114.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-78" value="重力测量数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="444" y="918" width="120" height="30" as="geometry" />
