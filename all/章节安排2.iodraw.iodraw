@@ -161,7 +161,7 @@
           <mxGeometry x="614" y="428" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-20" value="闭式径向基函数模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="614" y="480" width="120" height="38" as="geometry" />
+          <mxGeometry x="614" y="488" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontStyle=0" parent="1" source="4M3m3bhijvJrPEI5MOuk-18" target="4M3m3bhijvJrPEI5MOuk-19" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -352,8 +352,8 @@
         <mxCell id="4M3m3bhijvJrPEI5MOuk-79" value="RCR程序设置" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="614" y="888" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4M3m3bhijvJrPEI5MOuk-80" value="协方差函数拟合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="614" y="948" width="120" height="30" as="geometry" />
+        <mxCell id="4M3m3bhijvJrPEI5MOuk-80" value="Tscherning-Rapp协方差函数模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="614" y="948" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontStyle=0" parent="1" source="4M3m3bhijvJrPEI5MOuk-78" target="4M3m3bhijvJrPEI5MOuk-79" edge="1">
           <mxGeometry relative="1" as="geometry">
