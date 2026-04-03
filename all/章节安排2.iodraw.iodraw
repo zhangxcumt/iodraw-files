@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-24" value="符合&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Kaula&lt;/font&gt;准则的重力场建模理论" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontSize=16;fontColor=#ffffff;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="755.75" y="173" width="196.5" height="30" as="geometry" />
+          <mxGeometry x="755.75" y="173" width="244.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=0" parent="1" source="Bx7AzpJhx5t19qW085-5-25" target="Bx7AzpJhx5t19qW085-5-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-2" value="贪婪球面径向基函数重力场建模" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontSize=16;fontColor=#ffffff;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="760.75" y="373" width="229.25" height="30" as="geometry" />
+          <mxGeometry x="739.37" y="373" width="229.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;strokeWidth=5;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="422" y="403" width="864" height="160" as="geometry" />
