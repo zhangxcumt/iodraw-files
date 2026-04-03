@@ -516,8 +516,8 @@
         <mxCell id="PQf_Oe2wpUl4fiqrAf4G-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1290" y="15" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="PQf_Oe2wpUl4fiqrAf4G-4" value="第一章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1320" y="60" width="60" height="30" as="geometry" />
+        <mxCell id="PQf_Oe2wpUl4fiqrAf4G-4" value="第一章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1305" y="55" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PQf_Oe2wpUl4fiqrAf4G-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1290" y="195" width="20" height="120" as="geometry" />
@@ -534,20 +534,23 @@
         <mxCell id="PQf_Oe2wpUl4fiqrAf4G-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1290" y="1063.5" width="20" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PQf_Oe2wpUl4fiqrAf4G-10" value="第二章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1320" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="PQf_Oe2wpUl4fiqrAf4G-10" value="第二章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1305" y="235" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PQf_Oe2wpUl4fiqrAf4G-11" value="第三章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1320" y="455" width="60" height="30" as="geometry" />
+        <mxCell id="PQf_Oe2wpUl4fiqrAf4G-11" value="第三章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1305" y="450" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PQf_Oe2wpUl4fiqrAf4G-12" value="第四章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1320" y="675" width="60" height="30" as="geometry" />
+        <mxCell id="PQf_Oe2wpUl4fiqrAf4G-12" value="第四章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1305" y="670" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PQf_Oe2wpUl4fiqrAf4G-13" value="第五章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1320" y="905" width="60" height="30" as="geometry" />
+        <mxCell id="PQf_Oe2wpUl4fiqrAf4G-13" value="第五章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1305" y="900" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PQf_Oe2wpUl4fiqrAf4G-14" value="第六章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1320" y="1088.5" width="60" height="30" as="geometry" />
+        <mxCell id="PQf_Oe2wpUl4fiqrAf4G-14" value="第六章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1305" y="1083.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQf_Oe2wpUl4fiqrAf4G-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
