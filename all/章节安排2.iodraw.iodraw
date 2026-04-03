@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-24" value="符合&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Kaula&lt;/font&gt;准则的重力场建模理论" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontSize=16;fontColor=#ffffff;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="755.75" y="173" width="244.25" height="30" as="geometry" />
+          <mxGeometry x="731.88" y="173" width="244.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=0" parent="1" source="Bx7AzpJhx5t19qW085-5-25" target="Bx7AzpJhx5t19qW085-5-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -137,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-47" value="闭式径向基函数模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="961" y="240" width="120" height="43" as="geometry" />
+          <mxGeometry x="961" y="240" width="129" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-48" value="Tscherning-Rapp模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="961" y="290" width="120" height="43" as="geometry" />
