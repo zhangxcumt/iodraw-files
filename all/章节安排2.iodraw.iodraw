@@ -604,6 +604,9 @@
         <mxCell id="e-lJMLVpOuWckVO2puty-10" value="Colorado实验场" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="444" y="533" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="e-lJMLVpOuWckVO2puty-11" value="Colorado实验场" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="444" y="763" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
