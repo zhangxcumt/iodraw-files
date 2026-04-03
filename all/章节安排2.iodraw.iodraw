@@ -135,7 +135,7 @@
           <mxGeometry x="931" y="240" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-48" value="Tscherning-Rapp模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="931" y="290" width="120" height="30" as="geometry" />
+          <mxGeometry x="931" y="290" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bx7AzpJhx5t19qW085-5-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;fontStyle=1" parent="1" source="Bx7AzpJhx5t19qW085-5-34" target="Bx7AzpJhx5t19qW085-5-47" edge="1">
           <mxGeometry relative="1" as="geometry">
