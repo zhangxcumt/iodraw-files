@@ -182,7 +182,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-8" value="&lt;span style=&quot;font-size: 16px;&quot; lang=&quot;EN-US&quot;&gt;Nyström&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;最小二乘配置应用于大规模数据局部重力场建模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#0050ef;strokeColor=#001DBC;fontSize=16;fontColor=#ffffff;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="690" y="833" width="330" height="30" as="geometry" />
+          <mxGeometry x="690" y="833" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontStyle=0" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
