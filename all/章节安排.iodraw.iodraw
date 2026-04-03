@@ -516,8 +516,8 @@
         <mxCell id="PQf_Oe2wpUl4fiqrAf4G-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1290" y="15" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="PQf_Oe2wpUl4fiqrAf4G-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="68" width="50" height="30" as="geometry" />
+        <mxCell id="PQf_Oe2wpUl4fiqrAf4G-4" value="第一章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="68" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
