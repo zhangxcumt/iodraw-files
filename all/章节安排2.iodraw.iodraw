@@ -173,7 +173,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-5" value="最小二乘配置的贪婪稀疏近似方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontSize=16;fontColor=#ffffff;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="753.25" y="603" width="246.75" height="30" as="geometry" />
+          <mxGeometry x="730.63" y="603" width="246.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontStyle=0" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -386,7 +386,7 @@
           <mxGeometry x="794" y="1101.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-72" value="支持向量配置简介" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="974" y="1101.5" width="136" height="30" as="geometry" />
+          <mxGeometry x="965.5" y="1101.5" width="136" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-78" value="重力测量数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="444" y="918" width="120" height="30" as="geometry" />
