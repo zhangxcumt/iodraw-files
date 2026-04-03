@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-2" value="贪婪球面径向基函数重力场建模" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontSize=16;fontColor=#ffffff;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="760.75" y="373" width="186.5" height="30" as="geometry" />
+          <mxGeometry x="760.75" y="373" width="229.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;strokeWidth=5;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="422" y="403" width="864" height="160" as="geometry" />
@@ -227,7 +227,7 @@
           <mxGeometry x="794" y="533" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-29" value="GNSS/水准点大地水准面高" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="973" y="428" width="121" height="30" as="geometry" />
+          <mxGeometry x="973" y="420" width="121" height="38" as="geometry" />
         </mxCell>
         <mxCell id="4M3m3bhijvJrPEI5MOuk-30" value="格网大地水准面" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="973" y="488" width="121" height="30" as="geometry" />
